@@ -1,0 +1,6 @@
+C:\Users\Kristopher\Source\Repos\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Kristopher\Source\Repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Kristopher\Source\Repos\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Kristopher\Source\Repos\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Kristopher\Source\Repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Kristopher\Source\Repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
